@@ -21,7 +21,7 @@ That’s it, no build required.
 
 The application itself is a classic Todo list.
 
-You can add items using form above. Every item you can remove and duplicate using icons near them.
+You can add items using the form above. For every item, you can remove and duplicate them using icons near them.
 
 ## Used technologies
 
